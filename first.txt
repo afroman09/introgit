@@ -3,3 +3,4 @@ gitの練習をしています
 ・git commit
 .git remove
 git status
+git diff
